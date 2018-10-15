@@ -1,13 +1,8 @@
 package ipjava;
 
 import org.opencv.core.*;
-import org.opencv.features2d.*;
 import org.opencv.highgui.Highgui;
-import org.opencv.calib3d.Calib3d;
 
-import java.io.File;
-import java.util.LinkedList;
-import java.util.List;
 
 //-Djava.library.path=/usr/java/packages/lib/P
 
